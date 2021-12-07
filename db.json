@@ -1,0 +1,114 @@
+{  
+  "slides": [
+    {
+      "id": 1,
+      "photo": "cardimg.svg",
+      "text": "Text Photo 1",
+      "link": "www.google.com"
+    },
+    {
+      "id": 2,
+      "photo": "card-img.png",
+      "text": "Text Photo 2",
+      "link": "www.google.com"
+    },
+    {
+      "id": 3,
+      "photo": "cardimg.svg",
+      "text": "Text Photo 3",
+      "link": "www.google.com"
+    },
+    {
+      "id": 4,
+      "photo": "card-img.png",
+      "text": "Text Photo 4",
+      "link": "www.google.com"
+    },
+    {
+      "id": 5,
+      "photo": "card-img.png",
+      "text": "Text Photo 5",
+      "link": "www.google.com"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Company Switch Plateforme",
+      "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+      "media": "cardimg.svg",
+      "date":"21/10/2020"
+    },
+    {
+      "id": 2,
+      "title": "Suivi de Formation",
+      "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that action.",
+      "media": "card-img.png",
+      "date":"21/06/2020"
+    },
+    {
+      "id": 3,
+      "title": "Referencement",
+      "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that action.",
+      "media": "card-img.png",
+      "date":"21/08/2019"
+    },
+    {
+      "id": 4,
+      "title": "Site Web Creation",
+      "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that action.",
+      "media": "card-img.png",
+      "date":"12/06/2017"
+    },
+    {
+      "id": 5,
+      "title": "Suivi de Formation",
+      "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that action.",
+      "media": "card-img.png",
+      "date":"21/06/2020"
+    },
+    {
+      "id": 6,
+      "title": "Referencement",
+      "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that action.",
+      "media": "card-img.png",
+      "date":"21/08/2019"
+    },
+    {
+      "id": 7,
+      "title": "Site Web Creation",
+      "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that action.",
+      "media": "card-img.png",
+      "date":"12/06/2017"
+    },
+    {
+      "id": 8,
+      "title": "Site Web Creation",
+      "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that action.",
+      "media": "card-img.png",
+      "date":"12/06/2017"
+    }
+  ],
+  "contacts": [
+    {
+      
+    }
+  ],
+  "gallery": [
+    {
+      "id": 1,
+      "original": "https://picsum.photos/id/1018/1000/600/",
+      "thumbnail": "https://picsum.photos/id/1018/250/150/"
+    },
+    {
+      "id": 2,
+      "original": "https://picsum.photos/id/1015/1000/600/",
+      "thumbnail": "https://picsum.photos/id/1015/250/150/"
+    },
+    {
+      "id": 3,
+      "original": "https://picsum.photos/id/1019/1000/600/",
+      "thumbnail": "https://picsum.photos/id/1019/250/150/"
+    }
+  ]
+}

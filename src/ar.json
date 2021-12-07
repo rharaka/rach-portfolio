@@ -1,0 +1,19 @@
+{
+    "language": "فرنسي",
+    "direction": "rtl",
+    "textalign": "right",
+    "float": "left",
+    "homepage": "الرئيسية",
+    "aboutpage": "معلومات عنا",
+    "projects": "اعمالنا",
+    "gallery": "الصور",
+    "contact": "اتصل بنا",
+    "emailadress": "البريد الالكتروني",
+    "name": "الإسم",
+    "message": "الرسالة",
+    "submit": "إرسال",
+    "nameplaceholder": "الاسم هنا ...",
+    "emailplaceholder": "الايميل هنا ...",
+    "messageplaceholder": "الرسالة هنا ...",
+    "copyrights": "كل الحقوق محفوظة جكجكف سدكج 2021"
+}

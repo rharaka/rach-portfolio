@@ -1,0 +1,19 @@
+{
+    "language": "Arabe",
+    "direction": "ltr",
+    "textalign": "left",
+    "float": "right",
+    "homepage": "Accueil",
+    "aboutpage": "À-propos",
+    "projects": "Projets",
+    "gallery": "Galerie",
+    "contact": "Contact",
+    "emailadress": "Adresse Email",
+    "name": "Nom",
+    "message": "Message",
+    "submit": "Envoyer",
+    "nameplaceholder": "Votre Nom ici ...",
+    "emailplaceholder": "Votre Email ici ...",
+    "messageplaceholder": "Votre Message ici ...",
+    "copyrights": "Copyrights ljlgfjs gdsj gsjd 2021"
+}
