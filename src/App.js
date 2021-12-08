@@ -3,8 +3,8 @@
 
 import React, {useState} from 'react'
 
-import fr from './src/fr.json'
-import ar from './src/ar.json'
+import fr from 'src/fr.json'
+import ar from 'src/ar.json'
 
 import { Menu } from './components/Menu'
 import { Home } from './components/Home'
