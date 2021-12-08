@@ -3,8 +3,8 @@
 
 import React, {useState} from 'react'
 
-import fr from 'src/fr.json'
-import ar from 'src/ar.json'
+import fr from 'https://github.com/rharaka/rach-portfolio/blob/da711487d43136e34c06d17bef9df718da9ce1aa/src/fr.json'
+import ar from 'https://github.com/rharaka/rach-portfolio/blob/da711487d43136e34c06d17bef9df718da9ce1aa/src/ar.json'
 
 import { Menu } from './components/Menu'
 import { Home } from './components/Home'
