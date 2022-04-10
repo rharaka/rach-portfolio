@@ -11,7 +11,8 @@ const Slideshow = () => {
     useEffect(() => {
         const fetchSlides = async () => {
             const headers = { 'Content-Type': 'application/json' }
-            const res = await fetch('https://angry-rosalind-cb7128.netlify.app:5000/slides', headers)
+            const res = await fetch('http://localhost:5000/slides', headers)
+            //const res = await fetch('https://angry-rosalind-cb7128.netlify.app:5000/slides', headers)
             const data = await res.json()
             setSlides(await data)
         }
